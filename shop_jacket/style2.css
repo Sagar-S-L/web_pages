@@ -17,7 +17,7 @@ html,body{
     padding-left: 5%;
 }
 nav{
-    background-color: red;
+    /* background-color: red; */
     height: 4vh;
     width: 100%;
     display: flex;
@@ -25,7 +25,7 @@ nav{
     justify-content: flex-end;
     gap: 2vw;
     padding: 0 2.5vw;
-    /* background-color: #fff; */
+    background-color: #fff;
 }
 nav h4{
     font-size: 1em;
