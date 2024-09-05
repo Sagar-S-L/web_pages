@@ -9,7 +9,6 @@ al=()=>{
     });
 }
 tl.from("nav h3",{
-    // al,
     y:-50,
     opacity:0,
     duration:.8,
@@ -53,4 +52,3 @@ tl.from("img",{
 tl.from(".demo",{
     color:transperent,
 })
-
